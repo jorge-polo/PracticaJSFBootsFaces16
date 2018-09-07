@@ -16,7 +16,7 @@ public class TestCliente {
        
        Cliente cl = new Cliente();
        //cl.setId_cliente("1");
-       cl.setNombres_razon_social("Marco");
+       cl.setNombres_razon_social("Jorgex");
        cl.setTelefono("98754321");
        cl.setCorreo("marcopolo@upeu.edu.pe");
        cl.setDni_ruc("78675645");
